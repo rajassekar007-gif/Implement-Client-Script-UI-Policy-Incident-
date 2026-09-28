@@ -326,13 +326,6 @@ The project was tested using the required Incident scenarios and the results wer
 
 ---
 
-# Project Documentation
-
-The complete project report containing all eight phases is available here:
-
-**[View Complete Project Report](./project.pdf)**
-
----
 
 # Project Demonstration Video
 
